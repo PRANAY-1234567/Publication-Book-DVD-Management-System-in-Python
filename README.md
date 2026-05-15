@@ -265,3 +265,5 @@ super().get_data()
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="1294" height="877" alt="image" src="https://github.com/user-attachments/assets/838d26f8-9e75-4e3e-aabc-d7dd0bd4b51a" />
