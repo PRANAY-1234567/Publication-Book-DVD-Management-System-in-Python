@@ -56,7 +56,5 @@ class Inh7:
         print("\n\nDVD Details")
         print("---------------")
         book.put_data()
-
-
 Inh7.main()
         
